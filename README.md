@@ -44,7 +44,7 @@ For Software:
 
 <img width="1600" height="900" alt="Screenshot 2026-09-11 165628" src="https://github.com/user-attachments/assets/c0477c37-3b9e-43f6-8684-b0b79f0f06b6" />
 
-<img width="1600" height="900" alt="Screenshot 2026-09-11 161757" src="https://github.com/user-attachments/assets/1ff6794c-f320-480f-84e4-4e43f6e9faf3" />
+
 
 ### Project Demo
 # Video
